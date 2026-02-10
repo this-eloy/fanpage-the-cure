@@ -1,0 +1,154 @@
+body{
+    padding-top: 100px;
+    background-color: #ffffff;
+    font-size: large;
+    text-align: center;
+}
+
+.areas {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row; 
+    flex-wrap: wrap;
+  }
+
+.menu{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100px;
+    background-color: #000000;
+}
+
+.menu img{
+    position: relative;
+    margin-left: 1100px;
+    margin-bottom: 30px;
+    top: 20px;
+    right: 50px;
+    width: 150px;
+    cursor: pointer;
+}
+
+
+.nav{
+    list-style: none;
+    display: flex;
+    font-size: larger;
+    align-items: center;
+    height: 100%;
+    margin: 0px;
+}
+
+.lista{
+    text-decoration: none;
+    color: #ffffff;
+    transition: color 0.2s;
+    transition: font-size 0.3s;
+    font-family: 'DM Serif Display', serif;
+    letter-spacing: 2px;
+    font-size: 22px;
+}
+
+.lista:hover{
+    font-size: 25px;
+    color: #9d1d1d;
+    text-shadow: 2px 0 10px rgb(169, 169, 169);
+    transition: color 0.2s;
+    transition: font-size 0.3s;
+}
+
+ .nav li{
+    margin-right: -40px;
+    width: 200px;
+ }
+
+.sobre-nos-nav a{
+    color: #565656;
+}
+
+h1{
+    color: #9d1d1d;
+    font-family: 'DM Serif Display', serif;
+    letter-spacing: 2px;
+}
+h2{
+    font-family: 'DM Serif Display', serif;
+    letter-spacing: 2px;
+}
+
+.fotos{
+    border-radius: 500px;
+    padding: 8px;
+    background-color: #000000;
+    box-shadow:0 0 10px #000000;
+    transition: box-shadow 0.3s;
+}
+
+.fotos:hover{
+    cursor: pointer;
+    box-shadow: 0 0 20px #9d1d1d,
+    0 0 20px #000000;
+    transition: box-shadow 0.3s;
+}
+
+.container{
+    align-items: center;
+}
+
+.container img{
+    width: 175px;
+    height: 200px;
+    object-fit: cover;
+}
+
+.container ul{
+    width: 500px;
+    text-align: left;
+    margin: 0 auto;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    max-width: 100%;
+}
+
+hr{
+    margin-top:150px;
+}
+
+@media screen and (max-width: 767px) {
+  
+    .container{
+        overflow:hidden;
+        font-size: clamp(12px, 4vw, 32px);
+    }
+    .container ul{
+        width: 350px;
+    }
+    .container li{
+        margin:0;
+        padding: 0;
+    }
+    .menu{
+        height: 8%;
+        width: 100%;
+    }
+    .lista{
+        font-size: 17px;
+        align-items: center;
+        
+    }
+    .nav ul{
+        display: flex;
+        justify-content: space-between;
+    }
+    .nav li{
+        align-items: center;
+        margin-left: 2px;
+        margin-right: 20px;
+    }
+    .menu-img{
+        display: none;
+    }
+}
