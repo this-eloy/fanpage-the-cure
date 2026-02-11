@@ -20,6 +20,7 @@ Neste projeto você encontrará:
 <h4> Tecnologias Utilizadas </h4>
 
 HTML5: Estruturação de textos, listas, imagens e links.
+<br>
 CSS3: Estilização básica para cores, fontes e layout.
 
 
