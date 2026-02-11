@@ -26,6 +26,7 @@ CSS3: Estilização básica para cores, fontes e layout.
 //
 
 Orientador: Prof. Arnaldo
+<br>
 Data de Finalização: 24/07/2025 
 
 
