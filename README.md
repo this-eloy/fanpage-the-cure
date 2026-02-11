@@ -22,9 +22,10 @@ Neste projeto você encontrará:
 HTML5: Estruturação de textos, listas, imagens e links.
 CSS3: Estilização básica para cores, fontes e layout.
 
-Data de Finalização: 24/07/2025 
 
 //
 
 Orientador: Prof. Arnaldo
+Data de Finalização: 24/07/2025 
+
 
