@@ -1,12 +1,17 @@
 <h3> The Cure - Fanpage Project </h3>
 
-<p>
-  <img src="https://github.com/this-eloy/fanpage-the-cure/blob/ca734d621118f96fd71c58584813d8074e7d8cad/home-page.png" width="700">
-</p>
-
-<p>
-  <img src="https://github.com/this-eloy/fanpage-the-cure/blob/4fe3d7f96bdb71020894f8e135eddef7522dab9f/discografia.png" width="700">
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td style="padding: 10px;">
+        <img src="https://github.com/this-eloy/fanpage-the-cure/blob/ca734d621118f96fd71c58584813d8074e7d8cad/home-page.png" width="400" alt="Home Page">
+      </td>
+      <td style="padding: 10px;">
+        <img src="https://github.com/this-eloy/fanpage-the-cure/blob/4fe3d7f96bdb71020894f8e135eddef7522dab9f/discografia.png" width="400" alt="Discografia">
+      </td>
+    </tr>
+  </table>
+</div>
 
 
 
