@@ -1,4 +1,11 @@
 <h3> The Cure - Fanpage Project </h3>
+
+<p>
+  <img src="https://github.com/this-eloy/fanpage-the-cure/blob/ca734d621118f96fd71c58584813d8074e7d8cad/home-page.png" width="700">
+</p>
+
+
+
 <p>
 Este foi o meu primeiro projeto grande de desenvolvimento web! É uma fanpage dedicada à banda britânica The Cure, criada com o objetivo de praticar os fundamentos do desenvolvimento front-end.
 </p>
