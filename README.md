@@ -4,6 +4,10 @@
   <img src="https://github.com/this-eloy/fanpage-the-cure/blob/ca734d621118f96fd71c58584813d8074e7d8cad/home-page.png" width="700">
 </p>
 
+<p>
+  <img src="https://github.com/this-eloy/fanpage-the-cure/blob/4fe3d7f96bdb71020894f8e135eddef7522dab9f/discografia.png" width="700">
+</p>
+
 
 
 <p>
